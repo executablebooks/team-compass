@@ -1,6 +1,6 @@
 # Background and history
 
-This is a brief history of the Executable Books project with the purpose of encoding the provenance and rationale behind our current governance structure.
+This is a brief history of the Executable Books project, written with the intention of encoding the provenance and rationale behind our current governance structure.
 
 The Executable Books project began as a collaboration between three universities funded from a single grant.
 This team used these resources to develop a collection of tools and standards for communicating ideas with computational narratives in the Jupyter ecosystem and beyond.

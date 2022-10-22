@@ -6,7 +6,7 @@ This page describes the groups with decision-making authority in the project, as
 _All contributors to the Executable Books Project (including but not limited to individuals contributing code, providing technical support, discussing in repositories, teaching workshops, or discussing changes to EBP policy) are expected to adhere to the [Code of Conduct](policy:coc)._
 ```
 
-## Decision-making groups
+## Decision-Making Groups
 
 The following groups have formal decision-making authority in the project.
 Membership in each group comes with responsibilities, expectations, and privileges.
@@ -14,7 +14,7 @@ Membership in each group comes with responsibilities, expectations, and privileg
 (governance:steerco)=
 ### Steering Council
 
-Have decision-making authority over the entire organization.
+Members have decision-making authority over the entire organization.
 Their primary duty is to set organizational policy and strategy, to steward all technical and IP assets of the organization, to make decisions when we are at an impasse, and to delegate decision-making power to others in the organization. 
 
 #### Responsibilies
@@ -43,7 +43,7 @@ Steering Council Members agree to abide by the [EBP Code of Conduct](policy:coc)
 - Voting privileges for [changing Team Policy](governance:policy-decision).
 - All [Core Team privileges](governance:privileges:core-team)
 
-### Core team members
+### Core Team Members
 
 Individuals who are particularly interested in the EBP community and have demonstrated a willingness to participate in our community and further its mission. They guide discussion, grow the community, contribute code, and generally help the project improve.
 
@@ -89,7 +89,7 @@ See [](code-of-conduct.md) for more information.
 ### The MyST Specification
 
 The MyST Specification is defined at [`executablebooks/myst-spec`](https://github.com/executablebooks/myst-spec).
-It uses a combination of documentation, examples, schemas, tests, etc to define MyST markdown in a form that others could use to implement parsers and renderers. It is versioned and includes "releases" in order to make it easy for downstream implementors to track the changes they need to make.
+It uses a combination of documentation, examples, schemas, tests, etc to define MyST markdown in a form that can be used to implement parsers and renderers. It is versioned and includes "releases" in order to make it easy for downstream implementors to track the changes they need to make.
 
 ```{admonition} Implementation detail
 This repository will need to be modified as-needed to be the source of truth for the MyST Specification, and to have enough information to teach newcomers about its structure and function. One example for inspiration: [the Zarr specifications page](https://zarr.readthedocs.io/en/stable/spec.html). [Here's a comment with some suggestions for what is missing](https://github.com/executablebooks/meta/pull/843#issuecomment-1275474229).
@@ -117,13 +117,12 @@ Take the following steps for changing any policy, strategy, or governance aspect
    describe the implications of this proposal and the impact it will have.
    ```
 2. **Discuss and incorporate feedback** with others on the team. If there are objections or suggestions, do your best to incorporate them into your proposal.
-3. **Make a Pull Request** to the `Team Compass` repository (or another location if appropriate) and link it to the issue. This is the "formal change" that you wish to make.
+3. **Make a pull request** to the `Team Compass` repository (or another location if appropriate) and link it to the issue. This is the "formal change" that you wish to make.
 4. **Make a decision**. Steering Council members may approve PRs to change policy. To approve a change, use the "Approve" feature in the GitHub UI. To request blocking changes, use the "Request Changes" feature in the GitHub UI[^blocking]. PRs to change organizational policy may be merged when the following conditions are met:
-   - Have been open for five working days
-   - Have `Approval` from at least **One  Steering Council member**
+   - Have been open either for five working days or up until all Steering Council members `Approve` the PR.
+   - Have `Approval` from at least **one  Steering Council member**
    - Have no `Request Changes` from a Steering Council member.
    - If there are unresolveable objections from a Steering Council member, a decision to merge is made with a majority vote.
-   - If all steering council members `Approve`, it may be merged any time, overriding the requirement of being open for five working days.
 
 
 [^blocking]: When blocking any change or objecting to a proposal, provide a rationale for what must be changed and why you believe it is critically important. _Do not disapprove because of differences in opinion. Only disapprove if you have a major strategic concern_. See [Strategies for integrating objections](https://www.sociocracyforall.org/strategies-for-integrating-objections/) for what we are aiming for.
