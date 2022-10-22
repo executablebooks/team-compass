@@ -53,7 +53,6 @@ Individuals who are particularly interested in the EBP community and have demons
 This is intentionally blank for now, we will add more information in the coming weeks.
 ```
 
-
 #### Expectations
 
 ```{note}
