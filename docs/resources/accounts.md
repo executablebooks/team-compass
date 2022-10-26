@@ -1,4 +1,4 @@
-# Accounts and services
+# Accounts and Services
 
 There are a few resources that the team shares to reduce redundancy, save time, and standardize our practices.
 This page has a few major pieces.

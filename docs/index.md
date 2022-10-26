@@ -19,19 +19,25 @@ To propose a change to the Team Compass, see [](governance:policy-decision).
 :maxdepth: 2
 code-of-conduct
 governance
-team
+about/team
 strategy
 ```
 
 ```{toctree}
 :caption: Team resources
-communication
-development/tips
+:maxdepth: 2
+resources/accounts
+resources/communication
 development/conventions
+```
+
+```{toctree}
+:caption: About the project
+:maxdepth: 2
+
+about/support
+about/history
 meetings/index
-contributions
-accounts
-about
 ```
 
 ## License

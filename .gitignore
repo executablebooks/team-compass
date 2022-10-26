@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # Documentation-specific files
-docs/development/conventions
+docs/development/conventions.md

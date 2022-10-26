@@ -1,5 +1,5 @@
 (contributions)=
-# Contributions and support
+# Support for the project
 
 The following organizations have provided financial and in-kind support for this project.
 For a list of individuals that have contributed to the project, see [](team.md).
@@ -28,4 +28,4 @@ This project was launched via [a three-year grant from the Sloan Foundation](htt
 
 ## In-kind support
 
-These organizations provide
+_In the future we wish to create a formal definition of what warrants in-kind support for the project, and list them here_.
