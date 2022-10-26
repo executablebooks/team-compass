@@ -1,5 +1,8 @@
-# Team Members
+(team)=
+# Team members
 
+This project has had contribution from many different people and organizations.
+Below we list each, including their present or past roles.
 
 ## Steering Council
 
@@ -13,4 +16,10 @@ We expect the Steering Council to expand in the future, and this initial Steerin
 
 ## Core Team
 
-Currently the core team is [defined in this list of team members](https://executablebooks.org/en/latest/team.html).
+The core team is [defined in this list of team members](https://executablebooks.org/en/latest/team.html).
+
+## Emeritus Team Members
+
+These are team members that were once on the Core Team, but no longer wish to have Core Team responsibilities.
+
+_Note: this section is currently empty as no team member has formally left the project, we leave it here to encourage these practices moving forward_.

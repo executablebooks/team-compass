@@ -23,7 +23,7 @@ myst_heading_anchors = 3
 html_theme = "sphinx_book_theme"
 html_logo = "_static/logo.svg"
 html_favicon = "_static/logo-square.png"
-html_title = None
+html_title = ""
 html_static_path = ["_static"]
 
 html_theme_options = {
@@ -39,3 +39,30 @@ intersphinx_mapping = {
     "jb": ("https://jupyterbook.org/en/latest", None),
     "meta": ("https://executablebooks.org/en/latest/", None),
 }
+
+# -- Extra scripts at build time ---------------------------------------------
+
+from pathlib import Path
+from sphinx.application import Sphinx
+import os
+from sphinx.util import logging
+import requests
+
+LOGGER = logging.getLogger("conf")
+
+# Functions that this calls are below
+def setup(app: Sphinx):
+    app.connect("builder-inited", update_contributing)
+
+
+def update_contributing(app: Sphinx):
+    """Downloads the latest version of the contributing guide."""
+    path_contributing = Path(app.srcdir) / "development/conventions.md"
+    if path_contributing.exists():
+        LOGGER.info("Contributing page exists, delete and re-build to update...")
+        return
+    LOGGER.info("Updating conventions page...")
+    # Grab the latest contributing docs
+    url_contributing = "https://raw.githubusercontent.com/executablebooks/.github/master/CONTRIBUTING.md"
+    resp = requests.get(url_contributing, allow_redirects=True)
+    path_contributing.write_bytes(resp.content)
