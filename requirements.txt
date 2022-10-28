@@ -1,0 +1,3 @@
+sphinx-book-theme
+myst-parser[linkify]
+sphinx-design
