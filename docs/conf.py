@@ -57,7 +57,7 @@ def setup(app: Sphinx):
 
 def update_contributing(app: Sphinx):
     """Downloads the latest version of the contributing guide."""
-    path_contributing = Path(app.srcdir) / "development/conventions.md"
+    path_contributing = Path(app.srcdir) / "development/conventions.txt"
     if path_contributing.exists():
         LOGGER.info("Contributing page exists, delete and re-build to update...")
         return

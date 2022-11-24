@@ -3,9 +3,17 @@
 This documentation serves as the **Source of Truth** (SoT) for the Executable Books community policy and strategy, and defines its organizational structure and governance.
 It also aims to provide resources that facilitate contribution and coordination among team members.
 
+:::{admonition} Work in progress!
+:class: caution
+
+This site is a work in progress, as the project begins to formally define its structure and governance.
+Some information may be duplicated or contradictory with information at [executablebooks.org](https://executablebooks.org) - if it is, treat the information here as the source of truth.
+[See this GitHub issue to track our progress on this migration](https://github.com/executablebooks/meta/issues/857)
+:::
+
 ## Goals of the Team Compass
 
-The Team Compass should make our organizational policy and power structures explicit.
+The Team Compass should make our organizational policy, structure, and team practices explicit.
 It also delegates authority to other groups, processes, and locations.
 See the sections below for more information.[^1]
 
@@ -15,7 +23,7 @@ The Team Compass is always evolving as our community learns and changes.
 To propose a change to the Team Compass, see [](governance:policy-decision).
 
 ```{toctree}
-:caption: Team policy
+:caption: Policies and standards
 :maxdepth: 2
 code-of-conduct
 governance
@@ -24,11 +32,12 @@ strategy
 ```
 
 ```{toctree}
-:caption: Team resources
+:caption: Contributor resources
 :maxdepth: 2
 resources/accounts
 resources/communication
 development/conventions
+meetings/index
 ```
 
 ```{toctree}
@@ -37,7 +46,6 @@ development/conventions
 
 about/support
 about/history
-meetings/index
 ```
 
 ## License
