@@ -1,7 +1,7 @@
 (team)=
 # Team members
 
-This project has had contribution from many different people and organizations.
+This project has had contributions from many different people and organizations.
 Below we list each, including their present or past roles.
 
 ## Steering Council
