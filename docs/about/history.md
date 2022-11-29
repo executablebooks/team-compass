@@ -2,8 +2,10 @@
 
 This is a brief history of the Executable Books project, written with the intention of encoding the provenance and rationale behind our current governance structure.
 
-The Executable Books project began as a collaboration between three universities funded from a single grant.
-This team used these resources to develop a collection of tools and standards for communicating ideas with computational narratives in the Jupyter ecosystem and beyond.
+The Executable Books project began as a grant-funded collaboration between groups at [The Australian National University](https://anu.edu.au),
+[Northern Arizona University](https://nau.edu/), and
+[The University of California at Berkeley](https://www.berkeley.edu/).
+These teams represented many open source projects in the scientific community, such as [QuantEcon](https://quantecon.org), [QIIME 2](https://qiime2.org/), and [The Jupyter Project](https://jupyter.org/).
 This group followed a traditional Principal Investigator model where the vast majority of development on the project came from dedicated time paid for by the grant.
 
 Towards the end of the grant, the team discussed ways to create more pathways for community participation and leadership on the project, and to [transition towards more co-creation of a broader group of people](https://github.com/executablebooks/meta/issues/493), rather than being driven primarily by one grant-funded team.

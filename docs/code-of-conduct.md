@@ -24,3 +24,13 @@ The Executable Book Project follows a community
 [Code of Conduct](https://github.com/executablebooks/.github/blob/master/CODE_OF_CONDUCT.md).
 Please use that document as the source of truth for interacting with the EBP
 community.
+
+```{button-link} https://github.com/executablebooks/.github/blob/master/CODE_OF_CONDUCT.md
+:color: primary
+Code of Conduct
+```
+
+## Future plans
+
+In the future we aim to create a more formal Code of Conduct reporting process and team of people to respond to CoC violations.
+Please monitor and provide feedback in [the `team-compass/` repository](https://github.com/executablebooks/team-compass) as we explore the best path forward.
