@@ -1,0 +1,49 @@
+
+`````{grid} 1 2 3 3
+:gutter: 4
+
+
+````{grid-item-card}
+:link: https://github.com/gregcaporaso
+:text-align: center
+:class-footer: sd-fs-6
+
+```{image} https://github.com/gregcaporaso.png
+:class: sd-rounded-circle
+:alt: gregcaporaso avatar
+```
++++
+**@gregcaporaso**
+````
+
+
+
+````{grid-item-card}
+:link: https://github.com/choldgraf
+:text-align: center
+:class-footer: sd-fs-6
+
+```{image} https://github.com/choldgraf.png
+:class: sd-rounded-circle
+:alt: choldgraf avatar
+```
++++
+**@choldgraf**
+````
+
+
+
+````{grid-item-card}
+:link: https://github.com/jstac
+:text-align: center
+:class-footer: sd-fs-6
+
+```{image} https://github.com/jstac.png
+:class: sd-rounded-circle
+:alt: jstac avatar
+```
++++
+**@jstac**
+````
+
+`````

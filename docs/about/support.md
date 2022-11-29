@@ -2,7 +2,7 @@
 # Support for the project
 
 The following organizations have provided financial and in-kind support for this project.
-For a list of individuals that have contributed to the project, see [](team.md).
+For a list of individuals that have contributed to the project, see [](team/index.md).
 
 ## Financial support
 

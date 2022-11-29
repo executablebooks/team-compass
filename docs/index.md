@@ -23,11 +23,15 @@ The Team Compass is always evolving as our community learns and changes.
 To propose a change to the Team Compass, see [](governance:policy-decision).
 
 ```{toctree}
+team/index
+```
+
+```{toctree}
 :caption: Policies and standards
 :maxdepth: 2
 code-of-conduct
 governance
-about/team
+team/structure
 strategy
 ```
 

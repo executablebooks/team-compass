@@ -1,4 +1,4 @@
-# Communication Channels
+# Communication channels
 
 There are a few channels for communication depending on what you're trying to do.
 Here are some of the major pieces:
@@ -32,4 +32,4 @@ All core team members should have access to this email, though it is not current
 
 We also conduct (roughly) monthly team meetings via video chat.
 Anybody is welcome to join these meetings!
-For more information, see [](meetings/index.md).
+For more information, see [](../meetings/index.md).
