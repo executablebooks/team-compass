@@ -11,6 +11,8 @@ Here are a few expectations we have of anybody that is formally on an Executable
 
 Their primary duty is to set organizational policy and strategy, to steward all technical and IP assets of the organization, to make decisions when we are at an impasse, and to delegate decision-making power to others in the organization.
 
+See {team}`Steering Council` for a list of current team members.
+
 ### Responsibilies
 
 ```{note}
@@ -43,6 +45,8 @@ Steering Council Members agree to abide by the [EBP Code of Conduct](policy:coc)
 
 Individuals who are particularly interested in the EBP community and have demonstrated a willingness to participate in our community and further its mission. They guide discussion, grow the community, contribute code, and generally help the project improve.
 
+See {team}`Core Team` for a list of current team members.
+
 ### Responsibilities
 
 ```{note}
@@ -71,3 +75,14 @@ This is intentionally simple for now, we will add more information in the coming
 
 For past members of the {team}`Core Team` or {team}`Steering Council` that no longer wish to have the responsibilities of team membership.
 Generally speaking, if a team member wishes to have their team status and responsibilities re-instated, they simply need to ask another core team member.
+
+See {team}`Emeritus Team` for a list of current team members.
+
+## Adding team members
+
+Our team membership is defined in [the `@executablebooks` GitHub teams](https://github.com/orgs/executablebooks/teams).
+To add a new team member to that list, add them to the team there.
+
+:::{note}
+This section is intentionally simple right now, but we aim to add more process for when and how to add team members in the future.
+:::
