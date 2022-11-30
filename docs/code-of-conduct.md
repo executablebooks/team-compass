@@ -16,7 +16,7 @@ Report instances of unacceptable behavior that violates our Code of Conduct by s
 E-mail the Code of Conduct committe
 ```
 
-This address is monitored by the Code of Conduct committee, which is currently comprised of [the Steering Council of the project](governance:steerco).
+This address is monitored by the Code of Conduct committee, which is currently comprised of the {team}`Steering Council` of the project.
 
 ## Policy
 

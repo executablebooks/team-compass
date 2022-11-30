@@ -53,7 +53,7 @@ LOGGER = logging.getLogger("conf")
 # Functions that this calls are below
 def setup(app: Sphinx):
     app.connect("builder-inited", update_contributing)
-
+    app.add_crossref_type("team", "team")
 
 def update_contributing(app: Sphinx):
     """Downloads the latest version of the contributing guide."""

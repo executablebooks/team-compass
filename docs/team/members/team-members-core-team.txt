@@ -1,0 +1,139 @@
+
+`````{grid} 1 2 3 3
+:gutter: 4
+
+
+````{grid-item-card}
+:link: https://github.com/rowanc1
+:text-align: center
+:class-footer: sd-fs-6
+
+```{image} https://github.com/rowanc1.png
+:class: sd-rounded-circle
+:alt: rowanc1 avatar
+```
++++
+**@rowanc1**
+````
+
+
+
+````{grid-item-card}
+:link: https://github.com/stevejpurves
+:text-align: center
+:class-footer: sd-fs-6
+
+```{image} https://github.com/stevejpurves.png
+:class: sd-rounded-circle
+:alt: stevejpurves avatar
+```
++++
+**@stevejpurves**
+````
+
+
+
+````{grid-item-card}
+:link: https://github.com/damianavila
+:text-align: center
+:class-footer: sd-fs-6
+
+```{image} https://github.com/damianavila.png
+:class: sd-rounded-circle
+:alt: damianavila avatar
+```
++++
+**@damianavila**
+````
+
+
+
+````{grid-item-card}
+:link: https://github.com/chrisjsewell
+:text-align: center
+:class-footer: sd-fs-6
+
+```{image} https://github.com/chrisjsewell.png
+:class: sd-rounded-circle
+:alt: chrisjsewell avatar
+```
++++
+**@chrisjsewell**
+````
+
+
+
+````{grid-item-card}
+:link: https://github.com/pradyunsg
+:text-align: center
+:class-footer: sd-fs-6
+
+```{image} https://github.com/pradyunsg.png
+:class: sd-rounded-circle
+:alt: pradyunsg avatar
+```
++++
+**@pradyunsg**
+````
+
+
+
+````{grid-item-card}
+:link: https://github.com/AakashGfude
+:text-align: center
+:class-footer: sd-fs-6
+
+```{image} https://github.com/AakashGfude.png
+:class: sd-rounded-circle
+:alt: AakashGfude avatar
+```
++++
+**@AakashGfude**
+````
+
+
+
+````{grid-item-card}
+:link: https://github.com/mmcky
+:text-align: center
+:class-footer: sd-fs-6
+
+```{image} https://github.com/mmcky.png
+:class: sd-rounded-circle
+:alt: mmcky avatar
+```
++++
+**@mmcky**
+````
+
+
+
+````{grid-item-card}
+:link: https://github.com/fwkoch
+:text-align: center
+:class-footer: sd-fs-6
+
+```{image} https://github.com/fwkoch.png
+:class: sd-rounded-circle
+:alt: fwkoch avatar
+```
++++
+**@fwkoch**
+````
+
+
+
+````{grid-item-card}
+:link: https://github.com/najuzilu
+:text-align: center
+:class-footer: sd-fs-6
+
+```{image} https://github.com/najuzilu.png
+:class: sd-rounded-circle
+:alt: najuzilu avatar
+```
++++
+**@najuzilu**
+````
+
+`````

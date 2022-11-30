@@ -25,3 +25,12 @@ If you wish to start a **live server that previews the docs and updates as you c
 ```
 tox -e docs-live
 ```
+
+## Update the list of team members
+
+To update the list of team members, run this script:
+
+`docs/scripts/update_team_membership.py`
+
+See the comment in that file for more instructions.
+You will need to have an authenticated GitHub CLI to run it.
