@@ -21,6 +21,8 @@ You can [find the calendar URL here](https://calendar.google.com/calendar/embed?
 
 :::{dropdown} Meeting calendar
 
+Please note, the embedded calendar below is in **Pacific Time**.
+
 <iframe src="https://calendar.google.com/calendar/embed?src=2nbh00hh9020u622nt0p5qhbek%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 :::
