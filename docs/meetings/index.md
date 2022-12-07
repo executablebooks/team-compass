@@ -17,7 +17,7 @@ We try to meet monthly, on the **first Wednesday / Thursday of the month (depend
 Double-check in [our forum](https://github.com/executablebooks/meta/discussions) if you intend on joining, as we don't _always_ have the meeting depending on our availability and capacity.
 
 This calendar has dates for upcoming events in the Executable Books community.
-You can [find the calendar URL here](https://calendar.google.com/calendar/embed?src=2nbh00hh9020u622nt0p5qhbek%40group.calendar.google.com&ctz=America%2FLos_Angeles).
+You can [find the calendar URL here](https://calendar.google.com/calendar/embed?src=2nbh00hh9020u622nt0p5qhbek%40group.calendar.google.com).
 
 :::{dropdown} Meeting calendar
 
