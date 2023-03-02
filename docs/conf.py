@@ -28,16 +28,27 @@ html_static_path = ["_static"]
 
 html_theme_options = {
     "repository_url": "https://github.com/executablebooks/team-compass",
-    "use_repository_button": True,
     "use_issues_button": True,
     "use_edit_page_button": True,
+    "use_source_button": True,
     "path_to_docs": "docs",
+    "icon_links": [{
+        "url": "https://github.com/executablebooks/team-compass",
+        "icon": "fa-brands fa-github",
+    
+    },{
+        "url": "https://executablebooks.org",
+        "icon": "_static/logo-square.png",
+        "type": "local",
+    
+    }]
 }
 
 # Intersphinx
 intersphinx_mapping = {
     "jb": ("https://jupyterbook.org/en/latest", None),
     "meta": ("https://executablebooks.org/en/latest/", None),
+    "meps": ("https://myst-eps.readthedocs.io/en/latest/", None),
 }
 
 # -- Extra scripts at build time ---------------------------------------------
