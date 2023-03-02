@@ -40,6 +40,7 @@ strategy
 :maxdepth: 2
 resources/accounts
 resources/communication
+resources/external-communication
 development/conventions
 meetings/index
 ```
