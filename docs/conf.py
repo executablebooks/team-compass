@@ -48,7 +48,7 @@ html_theme_options = {
 intersphinx_mapping = {
     "jb": ("https://jupyterbook.org/en/latest", None),
     "meta": ("https://executablebooks.org/en/latest/", None),
-    "meps": ("https://myst-eps.readthedocs.io/en/latest/", None),
+    "meps": ("https://mep.myst-tools.org/en/latest/", None),
 }
 
 # -- Extra scripts at build time ---------------------------------------------
