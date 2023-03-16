@@ -136,4 +136,19 @@
 **@najuzilu**
 ````
 
+
+
+````{grid-item-card}
+:link: https://github.com/agoose77
+:text-align: center
+:class-footer: sd-fs-6
+
+```{image} https://github.com/agoose77.png
+:class: sd-rounded-circle
+:alt: agoose77 avatar
+```
++++
+**@agoose77**
+````
+
 `````
