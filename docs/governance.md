@@ -30,7 +30,7 @@ See [](code-of-conduct.md) for more information.
 (governance:myst)=
 ### The MyST Specification
 
-The MyST Specification is defined at [`executablebooks/myst-spec`](https://github.com/executablebooks/myst-spec).
+The MyST Specification is defined at https://github.com/executablebooks/myst-spec.
 It uses a combination of documentation, examples, schemas, tests, etc to define MyST markdown in a form that can be used to implement parsers and renderers. It is versioned and includes "releases" in order to make it easy for downstream implementors to track the changes they need to make.
 
 ```{admonition} Implementation detail
@@ -60,21 +60,22 @@ Take the following steps for changing any policy, strategy, or governance aspect
    ```
 2. **Discuss and incorporate feedback** with others on the team. If there are objections or suggestions, do your best to incorporate them into your proposal.
 3. **Make a pull request** to the `Team Compass` repository (or another location if appropriate) and link it to the issue. This is the "formal change" that you wish to make.
-4. **Make a decision**. Steering Council members may approve PRs to change policy. To approve a change, use the "Approve" feature in the GitHub UI. To request blocking changes, use the "Request Changes" feature in the GitHub UI[^blocking]. PRs to change organizational policy may be merged when the following conditions are met:
+4. **Make a decision**. Steering Council members may approve PRs to change policy. To approve a change, use the "Approve" feature in the GitHub UI. To request blocking changes, use the "Request Changes" feature in the GitHub UI (see [](#decisions:blocking)). PRs to change organizational policy may be merged when the following conditions are met:
    - Have been open either for five working days or up until all Steering Council members `Approve` the PR.
    - Have `Approval` from at least **one  Steering Council member**
    - Have no `Request Changes` from a Steering Council member.
    - If there are unresolveable objections from a Steering Council member, a decision to merge is made with a majority vote.
 
-
-[^blocking]: When blocking any change or objecting to a proposal, provide a rationale for what must be changed and why you believe it is critically important. _Do not disapprove because of differences in opinion. Only disapprove if you have a major strategic concern_. See [Strategies for integrating objections](https://www.sociocracyforall.org/strategies-for-integrating-objections/) for what we are aiming for.
-
 ### The MyST Specification
 
 We use a special process called **MyST Enhancement Proposals** to change the MyST Specification.
+See {external+meps:doc}`index` for more details.
 
-This is currently defined in the pages below, and will be moved to [`executablebooks/myst-enhancement-proposals`](https://github.com/executablebooks/myst-enhancement-proposals) in the future.
+## Guidelines for decision making
 
-```{toctree}
-meps
-```
+(decisions:blocking)=
+### How and when to block proposals
+
+When blocking any change or objecting to a proposal, provide a rationale for what must be changed and why you believe it is critically important.
+_Do not disapprove because of differences in opinion. Only disapprove if you have a major strategic concern_.
+See [Strategies for integrating objections](https://www.sociocracyforall.org/strategies-for-integrating-objections/) for what we are aiming for.
