@@ -35,12 +35,10 @@ html_theme_options = {
     "icon_links": [{
         "url": "https://github.com/executablebooks/team-compass",
         "icon": "fa-brands fa-github",
-    
     },{
         "url": "https://executablebooks.org",
         "icon": "_static/logo-square.png",
         "type": "local",
-    
     }]
 }
 
@@ -48,7 +46,7 @@ html_theme_options = {
 intersphinx_mapping = {
     "jb": ("https://jupyterbook.org/en/latest", None),
     "meta": ("https://executablebooks.org/en/latest/", None),
-    "meps": ("https://mep.myst-tools.org/en/latest/", None),
+    "meps": ("https://mep.mystmd.org/en/latest/", None),
 }
 
 # -- Extra scripts at build time ---------------------------------------------
