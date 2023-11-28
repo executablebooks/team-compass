@@ -29,6 +29,27 @@ This allows us to have programmatic access to EB resources without requiring a s
 
 Ask a {team}`Core Team` member for access to the `@ebp-bot` account.
 
+## Domain names
+
+Below is a list of domain names for the project, as well as the service we use to manage them.
+The {team}`Steering Council` has access to these domains, and if you need access in order to do something just ask them.
+
+```{list-table}
+- - [`executablebooks.org`](https://executablebooks.org)
+  - [NameCheap](https://www.namecheap.com/)
+- - [`jupyterbook.org`](https://jupyterbook.org)
+  - [NameCheap](https://www.namecheap.com/)
+- - [`myst-tools.org`](https://myst-tools.org)
+  - [Google Domains](https://domains.google.com)
+```
+
+## `welcome-bot`, `new-issue-bot`, and `new-pr-bot`
+
+We have a bot that automatically replies to issues and pull requests from first-time contributors in a repository.
+The configuration for this bot can be found here:
+
+https://github.com/executablebooks/.github/blob/master/.github/config.yml
+
 ## Social media
 
 See [](#external-communication:social).

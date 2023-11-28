@@ -1,3 +1,5 @@
+% Team member list is manually updated via the script here:
+%   docs/scripts/update_team_membership.py
 (team)=
 # Our team
 
