@@ -19,6 +19,21 @@
 
 
 ````{grid-item-card}
+:link: https://github.com/rowanc1
+:text-align: center
+:class-footer: sd-fs-6
+
+```{image} https://github.com/rowanc1.png
+:class: sd-rounded-circle
+:alt: rowanc1 avatar
+```
++++
+**@rowanc1**
+````
+
+
+
+````{grid-item-card}
 :link: https://github.com/choldgraf
 :text-align: center
 :class-footer: sd-fs-6
